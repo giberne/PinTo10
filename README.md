@@ -1,0 +1,2 @@
+# PinTo10
+- Stuart Pearson's Project Initially - Elements taken from various open sources from the internet.  Wrapped in lots of "if" commands to enable argument handling and specific cases. In order work for localized versions of Windows modify the "Pin to Start" and "Unpin from Start" strings in the script below. This script only handles win32 applications, not modern apps (unlikely to change any time soon). Tested on Win 10 1709 &amp; 1809 x64, should work an all version of windows 10 AFAIK.
